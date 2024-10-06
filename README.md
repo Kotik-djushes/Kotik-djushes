@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kotik-djushes
 - 👀 I’m interested in programming mods for mindustry.
-- 🌱 I’m currently learning mods for mindustry.
+- 🌱 I’m currently learning programming mods for mindustry.
 - 💞️ I’m looking to collaborate on @jadfoq .
 - 📫 How to reach me in discord @Kotik_djushes .
 - 😄 Pronouns: Estonia.
